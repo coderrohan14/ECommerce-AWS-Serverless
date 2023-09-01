@@ -1,0 +1,16 @@
+[
+  {
+    "Source": "com.app.basket.checkoutBasket",
+    "Detail": "{ \"username\": \"user1\", \"basket\": \"iPhone14\" }",
+    "Resources": ["resource1", "resource2"],
+    "DetailType": "CheckoutBasket",
+    "EventBusName": "AppEventBus"
+  },
+  {
+    "Source": "com.app.basket.checkoutBasket",
+    "Detail": "{ \"username\": \"user1\", \"basket\": \"OnePlus7\" }",
+    "Resources": ["resource1", "resource2"],
+    "DetailType": "CheckoutBasket",
+    "EventBusName": "AppEventBus"
+  }
+]
