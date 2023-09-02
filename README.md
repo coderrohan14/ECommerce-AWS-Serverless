@@ -1,8 +1,6 @@
-# Welcome to your CDK TypeScript project
+# Serverless Event-driven E-commerce Microservices
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+![AWS Microservices Architecture](https://user-images.githubusercontent.com/1147445/158019166-96732203-6642-4242-b1d9-d53ece2e1ed3.png)
 
 ## Useful commands
 
